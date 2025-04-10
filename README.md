@@ -33,6 +33,7 @@ blockchain-supply-chain
 │   └── SupplyChain.sol      # Solidity smart contract
 ├── scripts                 # Deployment scripts
 │   └── deploy.js            # Script for deploying the smart contract
+    └── test-connection.js   # Script for testing the metamask connection
 ├── test                    # Tests for smart contracts
 │   └── SupplyChain.test.js   # Smart contract tests
 ├── hardhat.config.js       # Hardhat configuration
